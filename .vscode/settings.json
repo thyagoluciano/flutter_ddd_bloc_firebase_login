@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "**/.idea": true,
+    "**/*.dart_tool": true,
+    "**/*.freezed.dart": true,
+    "**/*.vscode": true
+  }
+}
